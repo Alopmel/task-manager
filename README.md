@@ -6,4 +6,8 @@
 
 - pip3 install Flask-SQLAlchemy psycopg2
 
-3. For use set_pg first for run psql
+3. Touch env.py
+
+4. Create a taskmanager folder and __init__.py file
+
+ - This will make sure to initialize our taskmanager application as a package
